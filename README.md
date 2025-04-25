@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nandry
 - 👀 I’m interested in .Net technology: ASP.Net with C#,...
-- 🌱 I’m currently learning Angular and deepen myself in .Net world (Azure,Cloud,...)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working with Angular too and deepen myself in .Net world (Azure,Cloud,...)
 - 📫 How to reach me, send me an email :) 
 
 <!---
